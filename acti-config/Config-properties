@@ -1,0 +1,10 @@
+qaurl= https://demo.actitime.com/login.do
+ppurl= https://demo.actitime.com/login.do
+url=https://demo.actitime.com/login.do
+
+browser= chrome
+
+# credentials for qa env
+username=admin
+password=manager
+

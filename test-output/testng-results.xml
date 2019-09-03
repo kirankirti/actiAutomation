@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="43523" started-at="2019-09-02T00:54:00Z" finished-at="2019-09-02T00:54:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="43523" started-at="2019-09-02T00:54:00Z" finished-at="2019-09-02T00:54:43Z">
+      <class name="com.acti.qa.testcase.TC02_EnterTimeTrackPage">
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.acti.qa.testcase.TC02_EnterTimeTrackPage@c818063]" name="preTest" is-config="true" duration-ms="12967" started-at="2019-09-01T20:54:00Z" finished-at="2019-09-01T20:54:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="initBrowser()[pri:0, instance:com.acti.qa.testcase.TC02_EnterTimeTrackPage@c818063]" name="initBrowser" duration-ms="11076" started-at="2019-09-01T20:54:13Z" finished-at="2019-09-01T20:54:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBrowser -->
+        <test-method status="PASS" signature="preTest()[pri:0, instance:com.acti.qa.testcase.TC02_EnterTimeTrackPage@c818063]" name="preTest" is-config="true" duration-ms="11822" started-at="2019-09-01T20:54:24Z" finished-at="2019-09-01T20:54:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preTest -->
+        <test-method status="PASS" signature="testVerifyTaskMenu()[pri:0, instance:com.acti.qa.testcase.TC02_EnterTimeTrackPage@c818063]" name="testVerifyTaskMenu" duration-ms="7454" started-at="2019-09-01T20:54:36Z" finished-at="2019-09-01T20:54:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testVerifyTaskMenu -->
+      </class> <!-- com.acti.qa.testcase.TC02_EnterTimeTrackPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
